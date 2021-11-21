@@ -1,0 +1,9 @@
+C:\Users\Chest\source\repos\Birth Date\Birth Date\bin\Debug\Birth Date.exe.config
+C:\Users\Chest\source\repos\Birth Date\Birth Date\bin\Debug\Birth Date.exe
+C:\Users\Chest\source\repos\Birth Date\Birth Date\bin\Debug\Birth Date.pdb
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth_Date.Form1.resources
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth_Date.Properties.Resources.resources
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth Date.csproj.GenerateResource.cache
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth Date.csproj.CoreCompileInputs.cache
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth Date.exe
+C:\Users\Chest\source\repos\Birth Date\Birth Date\obj\Debug\Birth Date.pdb
